@@ -97,13 +97,13 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>Release</name>
-	      <url>http://172.31.47.238:8081/repository/sunny-release/</url>
+	      <name>maven-web-Release</name>
+	      <url>http://43.204.140.192:8081/repository/maven-web-release/</url>
 	    </repository>
 	    <snapshotRepository>
       	      <id>nexus</id>
-      	      <name>Snapshot</name>
-      	      <url>http://172.31.47.238:8081/repository/sunny-sanapshot/</url>
+      	      <name>maven-web-Snapshot</name>
+      	      <url>http://43.204.140.192:8081/repository/maven-web-snapshot/</url>
     	    </snapshotRepository>
 	</distributionManagement>
 	
